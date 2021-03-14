@@ -1,6 +1,6 @@
 # COVID19 Data Analysis Using Python
 
-### Coursera Project
+### NIELIT Project
 
 The course materials belong entirely to Coursera. Also, the COVID19 dataset, published by John Hopkins University. The answers are the only things that show my trials.
 
